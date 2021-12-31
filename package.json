@@ -5,7 +5,7 @@
   "main": "index.html",
   "homepage": "https://tiennecore.github.io/quick_launch",
   "scripts": {
-    "build" : "parcel build index.html --public-url /quicklaunch/",
+    "build" : "parcel build index.html --public-url ./",
     "start": "parcel index.html",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
