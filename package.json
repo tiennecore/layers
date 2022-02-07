@@ -2,8 +2,7 @@
   "name": "quick_launch",
   "version": "1.0.1",
   "description": "",
-  "main": "index.html",
-  "homepage": "https://tiennecore.github.io/quick_launch",
+  "homepage": "https://tiennecore.github.io/layers",
   "scripts": {
     "build" : "parcel build index.html --public-url ./",
     "start": "parcel index.html",
